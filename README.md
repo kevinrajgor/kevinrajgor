@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web Developer
 -----------------------
 
-I've been learning to code for the last 7 months, and so far have completed with HTML,CSS,JavaScript, React Js for the Frontend Part and to get my logical skills upto the mark I have learned and practiced Data Structures concepts in Java and am famaliar with Core Java concepts.
+I've been learning to code for the last 7 months, and so far have completed with HTML,CSS,JavaScript, React Js for the Frontend Part and to get my logical skills upto the mark I have learned and practiced Data Structures concepts in Java.
 
 * 🌍  I'm based in Vapi, Gujarat,India.
 * ✉️  You can contact me at [rajgorkevin95@gmail.com](mailto:rajgorkevin95@gmail.com)
