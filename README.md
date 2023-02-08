@@ -29,4 +29,4 @@ I've been learning to code for the last 7 months, and so far have completed with
 
 <p align="left"> <a href="https://www.github.com/kevinrajgor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kevinrajgor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kevinrajg95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 // README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=kevinrajgor&theme=highcontrast&show_icons=true&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=kevinrajgor&theme=highcontrast&show_icons=true&count_private=true)
