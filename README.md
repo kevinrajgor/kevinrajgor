@@ -6,7 +6,7 @@ Front-End Web Developer
 
 I've been learning to code for the last 7 months, and so far have completed with HTML,CSS,JavaScript, React Js for the Frontend Part and to get my logical skills upto the mark I have learned and practiced Data Structures concepts in Java.
 
-* 🌍  I'm based in Vapi, Gujarat,India.
+* 🌍  I'm based in Gujarat,India.
 * ✉️  You can contact me at [rajgorkevin95@gmail.com](mailto:rajgorkevin95@gmail.com)
 * 🧠  I'm learning Redux
 * 🤝  I'm open to collaborating on Interesting Projects
